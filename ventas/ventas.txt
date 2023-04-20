@@ -1,0 +1,5 @@
+Capacidad,20,19.00
+Zapatos,10,5.00
+Pantalon,10,180.43
+Playera,2,2.00
+Corbata,1,2000.00
